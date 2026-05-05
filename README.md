@@ -94,7 +94,7 @@ The dataset contains 180,000+ logistics records covering:
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/anubrata2209/LogiScale-BigData.git
 cd LogiScale_BigData
 ```
 
@@ -228,7 +228,11 @@ pyspark
 pandas
 sqlalchemy
 plotly
-findspark
+jupyter
+notebook
+numpy
+matplotlib
+openpyxl
 ```
 
 Install all with:
