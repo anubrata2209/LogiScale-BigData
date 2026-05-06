@@ -224,10 +224,12 @@ The final dashboard gives logistics managers a single-screen view of global oper
 ## Requirements
 
 ```
+Requirements
 pyspark
 pandas
 sqlalchemy
-plotly
+plotly>=6.1.1
+kaleido==1.0.0
 jupyter
 notebook
 numpy
